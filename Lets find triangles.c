@@ -37,7 +37,7 @@ int main()
           
   // a, b, c are the sides of a triangle
   // to be sides of a triangle, the sum of any two sides should be bigger than the 3rd.
- 
+ //A.M.M.S.Attanayake
   
 
  
